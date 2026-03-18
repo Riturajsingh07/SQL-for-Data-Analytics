@@ -1,4 +1,4 @@
-# SQL-for-Data-Analytics
+ # SQL-for-Data-Analytics
 
 # SQL Basics Learning
 
@@ -22,4 +22,4 @@ Tools Used:
 - MySQL Workbench
 
 Goal:
-Learning SQL step by step for becoming a Data Analyst.
+ Learning SQL step by step for becoming a Data Analyst.
