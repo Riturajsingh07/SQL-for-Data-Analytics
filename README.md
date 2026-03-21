@@ -1,7 +1,7 @@
 # 📊 SQL for Data Analytics
 
 ## 📌 About This Repository
-
+---
 This repository contains my daily SQL practice and learning journey for Data Analytics.
 I am solving real-world queries and improving my SQL skills step by step.
 
@@ -23,6 +23,9 @@ I am solving real-world queries and improving my SQL skills step by step.
 
 * Introduction to SQL
 * Basic Queries
+* how to create dashboard.
+* what is data base 
+* 
 
 ### ✅ Day 2
 
