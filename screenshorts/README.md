@@ -45,4 +45,4 @@ Tools Used:
 
 Goal:
  Learning SQL step by step for becoming a Data Analyst.
->>>>>>> temp:README.md
+>>>>>>> temp :README.md
