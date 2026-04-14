@@ -19,7 +19,7 @@ I am solving real-world queries and improving my SQL skills step by step.
 
 ## 📅 Daily Progress
 
-### ✅ Day 1
+### 
 
 * Introduction to SQL
 * Basic Queries
@@ -27,15 +27,16 @@ I am solving real-world queries and improving my SQL skills step by step.
 * what is data base 
 * 
 
-### ✅ Day 2
+### 
 
 * Filtering Data
 * Aggregate Functions
 
-### ✅ Day 3
+### 
 
 * Joins Practice
 * Real-world examples
+* Some Practice Question
 
 ---
 
