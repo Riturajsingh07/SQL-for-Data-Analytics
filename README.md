@@ -14,6 +14,7 @@ I am solving real-world queries and improving my SQL skills step by step.
 * Joins (INNER JOIN, LEFT JOIN)
 * Group By & Having
 * Real-world Data Analysis Queries
+* coalesce function
 
 ---
 
