@@ -43,13 +43,13 @@ I am solving real-world queries and improving my SQL skills step by step.
 
 ## 📸 Screenshots
 
-All query outputs are available in the **screenshorts** folder.
+ All query outputs are available in the **screenshorts** folder.
 
 ---
 
 ## 🎯 Goal
 
-To become a Data Analyst by mastering SQL and working on real-world datasets.
+  To become a Data Analyst by mastering SQL and working on real-world datasets.
 
 ---
 
